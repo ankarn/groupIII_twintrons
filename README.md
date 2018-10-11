@@ -3,7 +3,7 @@
 #                   Search for Group III twinton 3' motifs
 #                   ______________________________________
 #
-# A program to to find 3' motifs for group III twintrons, given the external 
+# A program to find 3' motifs for group III twintrons, given the external 
 #   intron in FASTA format.
 #
 # ** Program must be in same location as fasta file. **
