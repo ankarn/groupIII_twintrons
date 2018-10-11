@@ -1,18 +1,8 @@
-################################################################################
-#
-#                   Search for Group III twinton 3' motifs
-#                   ______________________________________
-#
-# A program to find 3' motifs for group III twintrons, given the external 
-#   intron in FASTA format.
-#
-# ** Program must be in same location as fasta file. **
-# 
-# Assumption: only one sequence submitted in fasta file.
-# 
-#   by: Matthew Bennett, Michigan State University
-#
-################################################################################
+Search for Group III twinton 3' motifs
+A program to find 3' motifs for group III twintrons, given the external intron in FASTA format.
+** Program must be in same location as fasta file. **
+Assumption: only one sequence submitted in fasta file.
+by: Matthew Bennett, Michigan State University
 
 # Function to complement a sequence
 def complement(sequence):
